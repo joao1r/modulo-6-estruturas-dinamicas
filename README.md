@@ -1,1 +1,0 @@
-# modulo-6-estruturas-dinamicas
